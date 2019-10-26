@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Bernd Leno",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Leno_1045x658.jpg?itok=sdPMY-iR",
+    "position": "Goalkeeper",
+    "number": "1"
+  },
+  {
+    "id": 2,
+    "name": "Hector Bellerin",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Bellerin_1045x658_0.jpg?itok=VnHg6MBP",
+    "position": "Defender",
+    "number": "2"
+  },
+  {
+    "id": 3,
+    "name": "Shkodran Mustafi",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Mustafi_1045x658_0.jpg?itok=iL6Zhdhm",
+    "position": "Defender",
+    "number": "20"
+  },
+  {
+    "id": 4,
+    "name": "David Luiz",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/DL_Website_profiles_1045x658_v2.jpg?itok=qvVlzxz8",
+    "position": "Defender",
+    "number": "23"
+  },
+  {
+    "id": 5,
+    "name": "Sead Kolasinac",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Kolasinac_1045x658_0.jpg?itok=p9Au6D7o",
+    "position": "Defender",
+    "number": "31"
+  },
+  {
+    "id": 6,
+    "name": "Dani Ceballos",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Ceballos_1045x658.jpg?itok=P2n_Yy1a",
+    "position": "Midfielder",
+    "number": "8"
+  },
+  {
+    "id": 7,
+    "name": "Mesut Ozil",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Ozil_1045x658_0.jpg?itok=6Y1DQ1Q_",
+    "position": "Midfielder",
+    "number": "10"
+  },
+  {
+    "id": 8,
+    "name": "Lucas Torreira",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Torreira_1045x658_0.jpg?itok=LJn9wPWN",
+    "position": "Midfielder",
+    "number": "11"
+  },
+  {
+    "id": 9,
+    "name": "Granit Xhaka",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Xhaka_1045x658_0.jpg?itok=4RdnaWrD",
+    "position": "Midfielder",
+    "number": "34"
+  },
+  {
+    "id": 10,
+    "name": "Alexandre Lacazette",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Lacazette_1045x658_0.jpg?itok=WucaQRNh",
+    "position": "Forward",
+    "number": "9"
+  },
+  {
+    "id": 11,
+    "name": "Pierre-Emerick Aubameyang",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Aubameyang_1045x658.jpg?itok=D5w_ewVj",
+    "position": "Forward",
+    "number": "14"
+  },
+  {
+    "id": 12,
+    "name": "Nicolas Pepe",
+    "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Pepe_profile_1045x658.jpg?itok=M5x_CZ9Y",
+    "position": "Forward",
+    "number": "19"
+  }
+]
